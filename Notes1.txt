@@ -1,0 +1,23 @@
+HTML->Hyper txt markup lang
+Html is used to dev web pages
+Html is the mark up lang
+html contains tags
+tag is the pre defined keyword which is present inside the web browser
+browser will understand all this tags
+html is case-insensetive
+html is not a prgm lang its a scripting/design/markup language
+To implement html we dont require any external software ie Compiler(browser)
+Structure
+<!doctype type> version of html
+<html>
+<head> header info title,css,script
+<title> </title>
+<style> </style>css
+
+</head>
+<body> used for to display resource/content of html
+
+</body>
+</html>
+
+
